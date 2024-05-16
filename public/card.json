@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to C Programming",
+        "cover": "https://i.imghippo.com/files/sE3jE1715833216.png",
+        "price": 15000,
+        "credit_hours": 1,
+        "details": "This book is a comprehensive guide to getting started with programming. It covers various programming languages and essential concepts."
+    },
+    {
+        "id": 2,
+        "title": " Introduction to Algorithms",
+        "cover": "https://i.imghippo.com/files/DrRJo1715833271.png",
+        "price": 25000,
+        "credit_hours": 2,
+        "details": "Explore culinary arts with this detailed cookbook featuring recipes from around the world and expert cooking tips."
+    },
+    {
+        "id": 3,
+        "title": "Introduction to C++ for DSA",
+        "cover": "https://i.imghippo.com/files/vd1Rb1715833319.png",
+        "price": 10000,
+        "credit_hours": 10,
+        "details": "Dive deep into the world of advanced mathematics with topics covering algebra, calculus, and beyond."
+    },
+    {
+        "id": 4,
+        "title": " Basic Data Structures",
+        "cover": "https://i.imghippo.com/files/sma1D1715833443.png",
+        "price": 35000,
+        "credit_hours": 5,
+        "details": "A detailed exploration of the global events that shaped the 20th century, from wars to advancements in technology."
+    },
+    {
+        "id": 5,
+        "title": " Introduction to OOP Python",
+        "cover": "https://i.imghippo.com/files/cCoEF1715833016.png",
+        "price": 19000,
+        "credit_hours": 5,
+        "details": "A fun and educational book for children to learn basic science concepts through experiments and illustrations."
+    },
+    {
+        "id": 6,
+        "title": "Software Engineering",
+        "cover": "https://i.imghippo.com/files/LOnAH1715833353.png",
+        "price": 23000,
+        "credit_hours": 2,
+        "details": "Essential knowledge for starting and managing a successful business, including finance, marketing, and strategy."
+    },
+    {
+        "id": 7,
+        "title": " AWS, Cloud Computing",
+        "cover": "https://i.imghippo.com/files/zEW0N1715833483.png",
+        "price": 35000,
+        "credit_hours": 5,
+        "details": "An introduction to the main branches of philosophy, major philosophers, and fundamental philosophical questions."
+    },
+    {
+        "id": 8,
+        "title": " Database (MySQL)",
+        "cover": "https://i.imghippo.com/files/rort11715833158.png",
+        "price": 19000,
+        "credit_hours": 5,
+        "details": "Learn how to create beautiful gardens in limited spaces with tips on plant selection, container gardening, and urban gardening."
+    },
+    {
+        "id": 9,
+        "title": "Problem-Solving Part",
+        "cover": "https://i.imghippo.com/files/7f67t1715833406.png",
+        "price": 23000,
+        "credit_hours": 2,
+        "details": "Master the art of digital photography with this comprehensive guide covering equipment, techniques, and post-processing."
+    }
+]
